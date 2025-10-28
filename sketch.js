@@ -13,7 +13,7 @@ let drawnLineVisible = false;
 let lineTimer; // Timer to clear the drawn line
 
 function preload() {
-    gif = loadImage('./erikgif.gif'); // 
+    gif = loadImage('/erikgif.gif'); // 
 }
 
 function setup() {
